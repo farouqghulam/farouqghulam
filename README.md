@@ -1,0 +1,8 @@
+- 👋 Hi, I’m @farouqghulam
+- 👀 I’m interested in programming, am looking forward to become a senior Software Engineer 
+- 🌱 I’m currently learning  Python and Go programming Languages 
+- 📫 How to reach me:
+-Phone number +254711224218
+-Email Farouqghulam@hotmail.com 
+-Instagram @farouqghulam_
+-Twitter @farouqghulam
